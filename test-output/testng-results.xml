@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="number" duration-ms="132" started-at="2022-08-06T19:50:32 IST" finished-at="2022-08-06T19:50:32 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="132" started-at="2022-08-06T19:50:32 IST" finished-at="2022-08-06T19:50:32 IST">
+      <class name="java_practise.number_of_occures">
+        <test-method status="PASS" signature="number()[pri:0, instance:java_practise.number_of_occures@6ee52dcd]" name="number" duration-ms="17" started-at="2022-08-06T19:50:32 IST" finished-at="2022-08-06T19:50:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- number -->
+        <test-method status="PASS" signature="testing()[pri:0, instance:java_practise.number_of_occures@6ee52dcd]" name="testing" duration-ms="7" started-at="2022-08-06T19:50:32 IST" finished-at="2022-08-06T19:50:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- java_practise.number_of_occures -->
+    </test> <!-- Test -->
+  </suite> <!-- number -->
+</testng-results>
