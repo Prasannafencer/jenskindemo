@@ -47,6 +47,7 @@
 <suiteXmlFiles>
 <!-- TestNG suite XML files -->
 <suiteXmlFile>numbertestng.xml</suiteXmlFile>
+<suiteXmlFile>parameterstestng.xml</suiteXmlFile>
 </suiteXmlFiles>
 </configuration>
 </plugin>
